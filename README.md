@@ -43,6 +43,6 @@ I also care about the full picture: SEO, performance, discoverability. I build t
 
 ---
 
-<p align="center"><em>Open to exciting work, collaborations, and new ideas → <a href="mailto:dskoome@gmail.com">dskoome@gmail.com</a></em></p>
+<p align="center"><em>Open to exciting work, collaborations, and new ideas!</em></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=DaisyKoome&label=Profile+views&color=0e75b6&style=flat" /></p>
