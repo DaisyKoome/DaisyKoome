@@ -1,14 +1,13 @@
 <h1 align="center">Daisy Koome 👋</h1>
 
 <p align="center">
-  <em>Full Stack Dev · AI Integrations · GDG Nairobi · Always Building</em>
+  <em>Full Stack Dev · AI Integrations · Tech Enthusiast · Always Building</em>
 </p>
 
 <p align="center">
   <a href="https://daisykoome.github.io/"><img src="https://img.shields.io/badge/Portfolio-daisykoome.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/daisy-koome/"><img src="https://img.shields.io/badge/LinkedIn-daisy--koome-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@Daisy_Koome"><img src="https://img.shields.io/badge/Medium-@Daisy__Koome-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
-  <a href="mailto:dskoome@gmail.com"><img src="https://img.shields.io/badge/Email-dskoome%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Nairobi%2C%20Kenya-🇰🇪-4285F4?style=flat-square" />
 </p>
 
@@ -38,11 +37,9 @@ I also care about the full picture: SEO, performance, discoverability. I build t
 
 - ✅ Passionate about building AI-powered web experiences
 - ✅ I write about it too → [Medium](https://medium.com/@Daisy_Koome)
-- ✅ Regular at [GDG Nairobi](https://gdg.community.dev/gdg-nairobi/) — always up for a good tech conversation
+- ✅ Love attending tech events and keeping up with the latest industry trends
 - ✅ Curious by nature, collaborative by choice, always up for a good challenge
 
 ---
 
-<p align="center"><em>Open to exciting work, collaborations, and new ideas!</em></p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=DaisyKoome&label=Profile+views&color=0e75b6&style=flat" /></p>
+<p align="center"><em>Open to exciting work, collaborations, and new ideas — let's connect!</em></p>
